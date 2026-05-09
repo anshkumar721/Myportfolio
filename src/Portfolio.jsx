@@ -86,7 +86,7 @@ export default function Portfolio() {
         href="#experience"
         className="px-4 py-2 rounded-full hover:bg-cyan-500 hover:text-black transition duration-300"
       >
-        Work Experience
+        Experience
       </a>
 
       <a
@@ -153,7 +153,7 @@ export default function Portfolio() {
             <span className="font-bold text-white">
               Ansh Kumar
             </span>{" "}
-            a passionate BSCS student at SZABIST University with strong
+            a passionate BSCS student at SZABIST University, Gharo Campus with strong
   interest in software engineering, artificial intelligence,
   machine learning, and modern web development. I enjoy building
   creative digital experiences that combine clean design with
