@@ -279,7 +279,7 @@ export default function Portfolio() {
   <div className="max-w-7xl mx-auto">
 
     <h2 className="text-5xl font-black text-center mb-16">
-      Experience 🚀
+      Work Experience 🚀
     </h2>
 
     <div className="grid md:grid-cols-2 gap-10">
