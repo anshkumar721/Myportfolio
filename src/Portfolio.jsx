@@ -329,7 +329,7 @@ export default function Portfolio() {
 
           <div>
             <h3 className="text-2xl font-bold text-cyan-400">
-              Industrial Intern
+              Computer Operator
             </h3>
 
             <p className="text-gray-400">
@@ -339,7 +339,7 @@ export default function Portfolio() {
         </div>
 
         <p className="text-pink-300 font-semibold mb-4">
-          Internship Experience
+          Experience
         </p>
 
         <p className="text-gray-300 leading-relaxed">
