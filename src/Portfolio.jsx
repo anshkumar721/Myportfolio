@@ -165,7 +165,7 @@ export default function Portfolio() {
           <div className="flex flex-wrap justify-center lg:justify-start gap-5">
 
             <a
-              href="/resume.pdf"
+              href="/CV.pdf"
               download
               className="px-8 py-3 rounded-2xl bg-gradient-to-r from-pink-500 to-purple-500 font-semibold hover:scale-105 transition"
             >
